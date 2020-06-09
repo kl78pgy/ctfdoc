@@ -1,0 +1,2 @@
+model_checkpoint_path: "360-CNNX-GRU-H64-CTC-C1.model-100"
+all_model_checkpoint_paths: "360-CNNX-GRU-H64-CTC-C1.model-100"
